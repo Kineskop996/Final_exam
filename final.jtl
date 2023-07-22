@@ -1,0 +1,34 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1690052357742,7175,https://cinematica.kg/api/v1/user/auth,200,OK,Thread Group 1-1,text,true,,565,479,1,1,https://cinematica.kg/api/v1/user/auth,7172,0,674
+1690052364920,29,https://cinematica.kg/api/v1/card,200,OK,Thread Group 1-1,text,true,,493,589,1,1,https://cinematica.kg/api/v1/card,29,0,0
+1690052364950,30,https://cinematica.kg/api/v1/card/purchases,200,OK,Thread Group 1-1,text,true,,493,599,1,1,https://cinematica.kg/api/v1/card/purchases,30,0,0
+1690052364981,869,https://cinematica.kg/movies/1900,200,OK,Thread Group 1-1,text,true,,1923203,3947,1,1,https://cinematica.kg/movies/1900,7,0,0
+1690052364981,7,https://cinematica.kg/movies/1900-0,200,OK,Thread Group 1-1,text,true,,1079,659,1,1,https://cinematica.kg/movies/1900,7,0,0
+1690052365030,86,https://cinematica.kg/movies/1900-1,200,OK,Thread Group 1-1,bin,true,,1392,659,1,1,https://cinematica.kg/favicon.ico,86,0,75
+1690052365030,386,https://cinematica.kg/movies/1900-2,200,OK,Thread Group 1-1,text,true,,1430,649,1,1,https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit,385,0,317
+1690052365030,281,https://cinematica.kg/movies/1900-3,200,OK,Thread Group 1-1,text,true,,1487344,674,1,1,https://cinematica.kg/static/js/main.2b386ba2.js,91,0,75
+1690052365030,820,https://cinematica.kg/movies/1900-4,200,OK,Thread Group 1-1,text,true,,431958,1306,1,1,https://cinematica.kg/static/css/main.117e098c.css,29,0,0
+1690052365030,86,https://cinematica.kg/movies/1900-0,200,OK,,text,true,,424844,676,0,0,https://cinematica.kg/static/css/main.117e098c.css,29,0,0
+1690052365564,286,https://cinematica.kg/movies/1900-1,200,OK,ResDownload-Thread-6,text,true,,7114,630,0,0,"https://fonts.googleapis.com/css?family=Roboto:300,400,700",284,0,215
+1690052365854,16,https://cinematica.kg/api/v1/banner,200,OK,Thread Group 1-1,text,true,,647,591,1,1,https://cinematica.kg/api/v1/banner,16,0,0
+1690052365871,22,https://cinematica.kg/api/v1/movies/slider,200,OK,Thread Group 1-1,text,true,,23222,598,1,1,https://cinematica.kg/api/v1/movies/slider,22,0,0
+1690052365894,50,https://cinematica.kg/api/v1/movies/today,200,OK,Thread Group 1-1,text,true,,130181,597,1,1,https://cinematica.kg/api/v1/movies/today,40,0,0
+1690052365944,25,https://cinematica.kg/api/v1/movies/soon,200,OK,Thread Group 1-1,text,true,,20572,596,1,1,https://cinematica.kg/api/v1/movies/soon,25,0,0
+1690052365970,21,https://cinematica.kg/api/v1/news,200,OK,Thread Group 1-1,text,true,,39766,589,1,1,https://cinematica.kg/api/v1/news,20,0,0
+1690052365992,13,https://cinematica.kg/api/v1/user/auth/check,200,OK,Thread Group 1-1,text,true,,493,774,1,1,https://cinematica.kg/api/v1/user/auth/check,13,0,0
+1690052366006,30,https://cinematica.kg/api/v1/movies/1900,200,OK,Thread Group 1-1,text,true,,3730,596,1,1,https://cinematica.kg/api/v1/movies/1900,30,0,0
+1690052366037,213,https://cinematica.kg/api/v1/repertory/movie/1900/grouped,200,OK,Thread Group 1-1,text,true,,47730,613,1,1,https://cinematica.kg/api/v1/repertory/movie/1900/grouped,210,0,0
+1690052366251,47,https://cinematica.kg/api/v1/movies?page=1,200,OK,Thread Group 1-1,text,true,,130181,598,1,1,https://cinematica.kg/api/v1/movies?page=1,37,0,0
+1690052366299,29,https://cinematica.kg/api/v1/movies/1899,200,OK,Thread Group 1-1,text,true,,3376,596,1,1,https://cinematica.kg/api/v1/movies/1899,29,0,0
+1690052366329,268,https://cinematica.kg/api/v1/repertory/movie/1899/grouped,200,OK,Thread Group 1-1,text,true,,62326,613,1,1,https://cinematica.kg/api/v1/repertory/movie/1899/grouped,265,0,0
+1690052366598,34,https://cinematica.kg/api/v1/movies/1898,200,OK,Thread Group 1-1,text,true,,3561,596,1,1,https://cinematica.kg/api/v1/movies/1898,34,0,0
+1690052366633,168,https://cinematica.kg/api/v1/repertory/movie/1898/grouped,200,OK,Thread Group 1-1,text,true,,39198,613,1,1,https://cinematica.kg/api/v1/repertory/movie/1898/grouped,167,0,0
+1690052366802,82,https://cinematica.kg/api/v1/repertory/seats/1/10000001/10002078/10190318,200,OK,Thread Group 1-1,text,true,,836,629,1,1,https://cinematica.kg/api/v1/repertory/seats/1/10000001/10002078/10190318,82,0,0
+1690052366885,29,https://cinematica.kg/api/v1/movies/1907,200,OK,Thread Group 1-1,text,true,,4323,596,1,1,https://cinematica.kg/api/v1/movies/1907,29,0,0
+1690052366915,117,https://cinematica.kg/api/v1/repertory/movie/1907/grouped,200,OK,Thread Group 1-1,text,true,,21145,613,1,1,https://cinematica.kg/api/v1/repertory/movie/1907/grouped,117,0,0
+1690052367032,17,https://cinematica.kg/api/v1/page/imax/repertory,200,OK,Thread Group 1-1,text,true,,341,604,1,1,https://cinematica.kg/api/v1/page/imax/repertory,17,0,0
+1690052367049,87,https://cinematica.kg/api/v1/imax/repertory?page=1,200,OK,Thread Group 1-1,text,true,,5628,606,1,1,https://cinematica.kg/api/v1/imax/repertory?page=1,87,0,0
+1690052367137,34,https://cinematica.kg/api/v1/cinema,200,OK,Thread Group 1-1,text,true,,18007,591,1,1,https://cinematica.kg/api/v1/cinema,33,0,0
+1690052367171,29,https://cinematica.kg/api/v1/movies/1897,200,OK,Thread Group 1-1,text,true,,4089,596,1,1,https://cinematica.kg/api/v1/movies/1897,29,0,0
+1690052367200,72,https://cinematica.kg/api/v1/repertory/movie/1897/grouped,200,OK,Thread Group 1-1,text,true,,1821,613,1,1,https://cinematica.kg/api/v1/repertory/movie/1897/grouped,72,0,0
+1690052357704,9506,Test,200,"Number of samples in transaction : 25, number of failing samples : 0",Thread Group 1-1,,true,,2485927,18432,1,1,null,8612,62,674
